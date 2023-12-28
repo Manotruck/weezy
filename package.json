@@ -23,13 +23,6 @@
   "dependencies": {
     "composer": "^4.1.0",
     "runtimejs": "^0.2.16"
-  },
-  "name": "weezy.json",
-  "version": "1.0.0",
-  "description": "initial compil",
-  "main": "webpack.config.js",
-  "directories": {
-    "test": "tests"
-  },
-  "author": "Pierre"
+  }
+  
 }
